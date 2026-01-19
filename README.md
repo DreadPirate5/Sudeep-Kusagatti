@@ -27,5 +27,12 @@ Python, Machine Learning, Deep Learning, NLP, Scikit-learn, TensorFlow / PyTorch
 
 ---
 
+### Technical Infrastructure Experience
+In addition to AI-focused projects, I maintain a self-hosted Linux server used
+for deploying and managing secure services. This experience complements my AI
+work by strengthening my understanding of systems, networking, and real-world
+deployment constraints.
+
+
 > This profile highlights academically oriented AI projects developed with an
 > emphasis on algorithmic understanding, evaluation, and real-world applicability.
