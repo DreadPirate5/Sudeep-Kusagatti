@@ -1,2 +1,31 @@
-# Sudeep-Kusagatti
-Academic GitHub profile highlighting projects and interests in Artificial Intelligence, Machine Learning, and applied AI systems.
+## Sudeep Kusagatti
+
+Bachelor’s in Computer Science & Information Technology  
+CGPA: 8.53  
+Applicant – MSc Artificial Intelligence (Germany)
+
+---
+
+### Academic Interests
+- Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Applied Artificial Intelligence
+
+---
+
+### Selected AI Projects
+- **YouTube Transcript Summarization** – Transformer-based abstractive summarization of long-form video transcripts  
+- **Image Caption Generator** – Multimodal learning using CNN–RNN encoder–decoder architecture  
+- **Local RAG Chatbot** – Retrieval-Augmented Generation with local LLMs for privacy-preserving QA  
+- **ML-based Price Prediction** – Supervised regression using XGBoost on structured data  
+
+---
+
+### Technical Focus
+Python, Machine Learning, Deep Learning, NLP, Scikit-learn, TensorFlow / PyTorch
+
+---
+
+> This profile highlights academically oriented AI projects developed with an
+> emphasis on algorithmic understanding, evaluation, and real-world applicability.
