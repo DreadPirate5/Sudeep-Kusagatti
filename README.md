@@ -33,6 +33,21 @@ for deploying and managing secure services. This experience complements my AI
 work by strengthening my understanding of systems, networking, and real-world
 deployment constraints.
 
+### Notes on Learning
+
+I am primarily motivated by understanding how systems work at a fundamental
+level. I enjoy learning through building, breaking, and reasoning — whether
+that involves training machine learning models, maintaining Linux servers,
+studying databases, or exploring computer networks.
+
+I find the most satisfaction in working on problems that require patience,
+iteration, and depth rather than presentation. Much of my learning happens
+outside formal requirements, driven by curiosity rather than assessment.
+
+I view computer science and artificial intelligence not as tools to be marketed,
+but as disciplines to be understood deeply over time. This perspective shapes
+how I approach both academic study and independent projects.
+
 
 > This profile highlights academically oriented AI projects developed with an
 > emphasis on algorithmic understanding, evaluation, and real-world applicability.
